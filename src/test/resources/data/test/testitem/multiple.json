@@ -1,0 +1,13 @@
+[{
+	"key": "key.value1",
+	"rangeKey": "rangeKey.value1"		
+},
+{
+	"key": "key.value2",
+	"rangeKey": "rangeKey.value2"		
+},
+{
+	"key": "key.value3",
+	"rangeKey": "rangeKey.value3"		
+}
+]
